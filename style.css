@@ -4,13 +4,6 @@ body{
     
 }
 
-
-h1{
-    color:rgb(0, 0, 0);
-    background-color: rgb(250, 250, 250);
-    font-size: 50px ;
-}
-
 p{
     color:rgb(0, 0, 0);
     font-size: 30px ;
@@ -18,13 +11,30 @@ p{
 
 li{
     color:rgb(0, 0, 0);
-    font-size: 20px ;
-}
-
-h1,p,li{
-    text-align:center;
+    font-size: 30px ;
 }
 
 img{
-    float: center;
+    float: right;
+}
+
+#intro{
+    text-align:center;
+}
+
+#titulo{
+    color:rgb(0, 0, 0);
+    font-size: 50px ;
+    text-align:center;
+    background-color: seashell;
+    padding: 0px;
+}
+
+#titulo_integrantes{
+    color:rgb(0, 0, 0);
+    font-size: 50px ;
+    text-align:center;
+    background-color: seashell;
+    padding: 0px;
+    
 }
